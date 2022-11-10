@@ -25,7 +25,7 @@ This is an analysis of potential cryptocurrency exchange arbitrage opportunities
 ## Installation Guide
 
 
--Before running the notebook/code, first install the following dependencies, using this code:
+Before running the notebook/code, first install the following dependencies, using this code:
 
 ```python
   pip install pandas
